@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya&display=swap');
+
+h1 {
+    font-family: 'Alegreya', serif;
+    color: brown;
+}
+
+strong {
+    color:blue
+}
